@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ws719547997
-- 👀 I’m interested in NLP, Continal Learning and Block Chain.
-- 🌱 I’m currently learning MRC and IE task in NLP.
-- 💞️ I’m looking to collaborate on Continual Learning framework.
+- 👀 I’m interested in NLP, Continal Learning and Trade.
+- 🌱 I’m currently working on extract LLM.
+- 💞️ I’m looking to collaborate on quant
 - 📫 How to reach me tw:@kuroneko5943
 
 <!---
